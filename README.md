@@ -156,7 +156,7 @@ plt.show()
 print(f'\nFinal Step Evaluation:')
 print(f'Predicted Price: {predicted_prices[-1][0]:.2f}')
 print(f'Actual Price: {actual_prices[-1][0]:.2f}')
-
+```
 # OUTPUT
 <img width="244" height="802" alt="image" src="https://github.com/user-attachments/assets/d1f33462-b26c-432f-94f8-584155ec03d0" />
 <img width="902" height="569" alt="image" src="https://github.com/user-attachments/assets/35102f29-2674-465c-8a7b-e7a21d00a799" />
